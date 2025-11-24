@@ -1,7 +1,7 @@
-<h1>🚀 Laptop Price Predictor – Kubernetes Deployment (Minikube)</h1>
+<h1>🚀 Simple Flask App – Kubernetes Deployment (Minikube)</h1>
 
 <p>
-This project demonstrates how to containerize a Machine Learning model and deploy it using 
+This project demonstrates how to containerize a Flask app and deploy it using 
 <strong>Kubernetes</strong> on a local cluster through <strong>Minikube</strong>.  
 The goal is to understand containerization, orchestration, and real-world deployment flow—similar 
 to production systems like AWS EKS.
